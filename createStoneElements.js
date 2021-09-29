@@ -605,3 +605,12 @@
 
 
 })();
+
+class Stone {
+    constructor(colour) {
+        this.colour = colour;
+    }
+}
+
+stone = new Stone("black")
+stone.colour 

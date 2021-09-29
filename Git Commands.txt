@@ -42,3 +42,6 @@ git checkou main
 git add .
 git commit -m "XX"
 git push
+
+PUSH BRANCH TO ANOTHER BRANCH
+git push origin BRANCH1:BRANCH2
